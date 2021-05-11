@@ -31,6 +31,7 @@ I care about 3 aspects of exercising strength, endurance and flexibility.
 - Žinios kaip atlikti judesius gera forma
 - Išvaizda
 - Malonus nuovargis
+
 https://www.reddit.com/r/bodyweightfitness/comments/auvpc9/a_testament_to_strength_training/ a lot great general info
 - an increase in lean body mass
 - increase in metabolic rate
