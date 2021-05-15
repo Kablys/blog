@@ -1,0 +1,35 @@
+- General
+    - Alternatives [guides/ALTERNATIVES.md at master · mayfrost/guides](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
+    - [Free for developers](https://free-for.dev/#/)
+- General writing
+    - [https://app.readable.com/text/](https://app.readable.com/text/)
+    - [https://hemingwayapp.com/](https://hemingwayapp.com/)
+    - #TODO add grammar checker, readability, seo tools
+- Outliner/planer/note taking/...
+    - **Dynalist**
+    - https://coda.io/welcome
+    - [Typora — a markdown editor, markdown reader.](https://typora.io/)
+    - [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
+- Meal prepping and tracking
+    - [Cronometer](https://cronometer.com/)
+    - https://www.custommealplanner.com/
+- Graph drawing
+    - Graphviz
+    - [Cytoscape.js](http://js.cytoscape.org/)
+    - https://app.diagrams.net/
+    - https://plantuml.com/  - Graphviz with nice defaults for UML
+- Learning
+    - SRS(spaced repetition system)
+        - https://getpolarized.io/
+- Eat the Web
+    - https://volt.ws/
+    - https://zealdocs.org/
+- Password manager
+    - [Open Source Password Management Solutions | Bitwarden](https://bitwarden.com/)
+    - https://keepassxc.org/
+    - [Firefox Lockbox Now on Android, Keeping your Passwords Safe : Android](https://www.reddit.com/r/Android/comments/b5pz8k/firefox_lockbox_now_on_android_keeping_your/)
+- Host
+    - [1MB](https://1mb.site/)
+    - https://course.fast.ai/deployment_render.html
+- AI
+    - Visulization [Weights & Biases](https://app.wandb.ai/)
