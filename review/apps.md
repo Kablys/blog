@@ -41,6 +41,22 @@ What I am searching for:
     - Coplicated way to rearage tasks
     - A lot of templates
     - most of the stuff is just a list/table
+## Pomodoro
+- clear focus
+    - - pause only for pro
+    - - ads
+- Brain Focus
+    - - no notification light
+    - - ugly
+    - - always on screen
+    - + skip, pause, stop, +1 min buttons
+- Tide
+    - - Takes a lot of space
+    - - limited controls
+    - - not precise enough settings
+    - + good looking
+    - + noise generator
+    - + screen turn on notification when done
 ## Exercise tracking
 What I am searching for:
 1. Multiplatform - Mobile, web and mybe desktop
